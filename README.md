@@ -1,3 +1,3 @@
 # Sampling-based planning with anytime weighted search
-  ## A method is 
+  ## A method is proposed to 
   ##
