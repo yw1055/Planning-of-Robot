@@ -1,3 +1,3 @@
 # Sampling-based planning with anytime weighted search
-  ## A method is proposed to solve high dimensional motion planning problems
+  ## A method is proposed to solve Robots' motion planning high dimensional 
   ##
