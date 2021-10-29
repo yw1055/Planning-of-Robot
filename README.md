@@ -4,4 +4,4 @@
   
   ##This method is going to quickly find the first solution, and then get better and better solutions with additional time until it converges to an optimal solution from a start state to the goal state.
   
-  ##ARA* is an anytime weighted search which adjusts
+  ##ARA* is an anytime weighted search which
