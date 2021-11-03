@@ -6,4 +6,4 @@
   
 ##ARA* is an anytime weighted heuristic search adjusting its performence bound on sufficient search time.
   
-  ##AWA* is an anytime weighted
+  ##AWA* is an anytime weighted heuristic 
