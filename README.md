@@ -7,3 +7,5 @@
 ##ARA* is an anytime weighted heuristic search adjusting its performence bound on sufficient search time.
   
   ##AWA* is an anytime weighted heuristic search finding a sequence of improved path solutions and eventually converges to an optimal solution.
+  
+  ##RWA*
