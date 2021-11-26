@@ -8,4 +8,4 @@
   
   ##AWA* is an anytime weighted heuristic search finding a sequence of improved path solutions and eventually converges to an optimal solution.
   
-  ##RWA* is an anytime weighted heuristic search restarting the new search from the start state to the goal state to overcome low-h bias. It runs iterated WA* with readucing weights, always re-expanding states when it meets a shorter path. RW
+  ##RWA* is an anytime weighted heuristic search restarting the new search from the start state to the goal state to overcome low-h bias. It runs iterated WA* with readucing weights, always re-expanding states when it meets a shorter path. R
